@@ -255,7 +255,7 @@ function hideLoading() {
     console.log("loaded");
 }
 function doNothing() { }
-var webServiceEndpoint = 'http://203.195.147.70:8080/server-DD/api';
+var webServiceEndpoint = '//203.195.147.70:8080/server-DD/api';
 //# sourceMappingURL=C:/Users/mike/Desktop/DD/dump/frontV2/src/commons.js.map
 
 /***/ }),
